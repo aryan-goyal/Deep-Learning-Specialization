@@ -29,6 +29,10 @@ Projects:
 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 Projects: 
+   - [Python Basics With Numpy](https://github.com/aryan-goyal/Deep-Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Python_Basics_With_Numpy_v3a.ipynb)
+   - [Logistic Regression with a Neural Network mindset](https://github.com/aryan-goyal/Deep-Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+   - [Building Neural Network](https://github.com/aryan-goyal/Deep-Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+   - [Planar data classification with onehidden layer](https://github.com/aryan-goyal/Deep-Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
@@ -54,5 +58,3 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  3. Week3 - Sequence models & Attention mechanism
  
  Projects:
-
-<p align="center"> *************************************************************************************************************************************</p>
